@@ -44,6 +44,5 @@ A desktop simulation of Conway's Game of Life built with Python and PySide6.
 
 ## 📫 Contact
 
-Email: anwar.allalpro@gmail.com  
-Phone: 367 995 0831  
+Email: anwar.allalpro@gmail.com
 GitHub: github.com/AnwarAllal23
