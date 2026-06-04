@@ -5,7 +5,7 @@ I'm a student game developer based in Québec, currently studying video game dev
 I enjoy building desktop tools, game-related applications, algorithm visualizers, and interactive software.  
 I'm currently looking for a junior developer opportunity where I can grow, contribute to real projects, and turn software development into my main career.
 
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - C#
@@ -20,7 +20,7 @@ I'm currently looking for a junior developer opportunity where I can grow, contr
 - Networking fundamentals
 - Currently learning DevOps
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Ren'Py Translator GUI
 A desktop tool built with Python and PySide6 to help extract, translate, and rewrite dialogue files for Ren'Py projects.
@@ -34,7 +34,7 @@ An interactive TypeScript project that visualizes a Q-learning agent solving a l
 ### Game of Life - PySide6
 A desktop simulation of Conway's Game of Life built with Python and PySide6.
 
-## 🎯 Current Goals
+## Current Goals
 
 - Improve my software architecture skills
 - Build stronger backend and full-stack projects
@@ -42,7 +42,7 @@ A desktop simulation of Conway's Game of Life built with Python and PySide6.
 - Create professional tools and game-related applications
 - Find a junior developer position in Québec
 
-## 📫 Contact
+## Contact
 
 Email: anwar.allalpro@gmail.com
 GitHub: github.com/AnwarAllal23
